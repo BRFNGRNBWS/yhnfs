@@ -5,4 +5,9 @@
 
 body, html, a, button {
     font-family: afl;
+    
+}
+
+html {
+	width: 25vw;
 }
